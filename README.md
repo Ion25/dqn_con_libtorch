@@ -231,23 +231,6 @@ CartPole es un problema clásico de control donde un poste debe mantenerse verti
 - |x| > 2.4 (carro fuera de límites)
 - |θ| > 12° (poste cayó)
 
-## Documentación Adicional
-
-### Documento Técnico LaTeX
-
-El proyecto incluye documentación técnica completa en LaTeX:
-
-```bash
-cd doc
-make
-```
-
-Esto genera `proyecto_dqn.pdf` con:
-- Fundamentos teóricos
-- Arquitectura detallada
-- Pseudocódigo del algoritmo
-- Análisis de resultados
-- Referencias bibliográficas
 
 ## Solución de Problemas
 
