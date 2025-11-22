@@ -161,6 +161,10 @@ Entrenamiento finalizado.
 Modelo final guardado en modelo_final.pt
 ```
 
+<img width="676" height="230" alt="resultado_de_entrenamiento" src="https://github.com/user-attachments/assets/51fe96d5-7fbc-40dc-b361-8f90558520d0" />
+
+
+
 ## Configuración y Parámetros
 
 Los hiperparámetros se pueden modificar en `src/main.cpp`:
