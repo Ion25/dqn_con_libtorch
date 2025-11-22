@@ -46,12 +46,7 @@ Donde:
 .
 ├── CMakeLists.txt                  # Configuración de CMake
 ├── README.md                       # Este archivo
-├── download_libtorch.sh            # Script para descargar LibTorch
 ├── resultados_entrenamiento.txt    # Log de ejemplo del entrenamiento
-├── doc/
-│   ├── proyecto_dqn.tex           # Documentación LaTeX completa
-│   ├── Makefile                   # Para compilar la documentación
-│   └── RESUMEN.md                 # Resumen del proyecto
 └── src/
     ├── main.cpp                   # Loop principal de entrenamiento
     ├── model.h                    # Arquitectura de la red neuronal
