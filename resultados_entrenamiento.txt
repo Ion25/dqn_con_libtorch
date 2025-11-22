@@ -1,0 +1,63 @@
+Dispositivo: CPU
+Episodio 10 | Recompensa: 22 | Epsilon: 0.951717 | Pasos: 184
+Episodio 20 | Recompensa: 25 | Epsilon: 0.905789 | Pasos: 431
+Episodio 30 | Recompensa: 21 | Epsilon: 0.862101 | Pasos: 637
+Episodio 40 | Recompensa: 8 | Epsilon: 0.820543 | Pasos: 826
+Episodio 50 | Recompensa: 9 | Epsilon: 0.781013 | Pasos: 1017
+Checkpoint guardado en episodio 50
+Episodio 60 | Recompensa: 10 | Epsilon: 0.74341 | Pasos: 1170
+Episodio 70 | Recompensa: 18 | Epsilon: 0.707641 | Pasos: 1344
+Episodio 80 | Recompensa: 20 | Epsilon: 0.673617 | Pasos: 1577
+Episodio 90 | Recompensa: 111 | Epsilon: 0.641252 | Pasos: 2038
+Episodio 100 | Recompensa: 42 | Epsilon: 0.610465 | Pasos: 2509
+Checkpoint guardado en episodio 100
+Episodio 110 | Recompensa: 31 | Epsilon: 0.58118 | Pasos: 3194
+Episodio 120 | Recompensa: 64 | Epsilon: 0.553324 | Pasos: 3767
+Episodio 130 | Recompensa: 19 | Epsilon: 0.526825 | Pasos: 4477
+Episodio 140 | Recompensa: 21 | Epsilon: 0.501619 | Pasos: 5014
+Episodio 150 | Recompensa: 40 | Epsilon: 0.477643 | Pasos: 5557
+Checkpoint guardado en episodio 150
+Episodio 160 | Recompensa: 110 | Epsilon: 0.454836 | Pasos: 6328
+Episodio 170 | Recompensa: 43 | Epsilon: 0.433141 | Pasos: 6797
+Episodio 180 | Recompensa: 80 | Epsilon: 0.412504 | Pasos: 7339
+Episodio 190 | Recompensa: 22 | Epsilon: 0.392874 | Pasos: 7767
+Episodio 200 | Recompensa: 49 | Epsilon: 0.374201 | Pasos: 7977
+Checkpoint guardado en episodio 200
+Episodio 210 | Recompensa: 11 | Epsilon: 0.356438 | Pasos: 8363
+Episodio 220 | Recompensa: 31 | Epsilon: 0.339542 | Pasos: 8795
+Episodio 230 | Recompensa: 61 | Epsilon: 0.32347 | Pasos: 9278
+Episodio 240 | Recompensa: 13 | Epsilon: 0.308182 | Pasos: 9882
+Episodio 250 | Recompensa: 19 | Epsilon: 0.29364 | Pasos: 10372
+Checkpoint guardado en episodio 250
+Episodio 260 | Recompensa: 28 | Epsilon: 0.279806 | Pasos: 10739
+Episodio 270 | Recompensa: 15 | Epsilon: 0.266648 | Pasos: 11187
+Episodio 280 | Recompensa: 105 | Epsilon: 0.254131 | Pasos: 11709
+Episodio 290 | Recompensa: 41 | Epsilon: 0.242225 | Pasos: 12265
+Episodio 300 | Recompensa: 125 | Epsilon: 0.230899 | Pasos: 12782
+Checkpoint guardado en episodio 300
+Episodio 310 | Recompensa: 67 | Epsilon: 0.220126 | Pasos: 13615
+Episodio 320 | Recompensa: 100 | Epsilon: 0.209878 | Pasos: 14373
+Episodio 330 | Recompensa: 118 | Epsilon: 0.200129 | Pasos: 15358
+Episodio 340 | Recompensa: 110 | Epsilon: 0.190857 | Pasos: 15970
+Episodio 350 | Recompensa: 12 | Epsilon: 0.182036 | Pasos: 16706
+Checkpoint guardado en episodio 350
+Episodio 360 | Recompensa: 44 | Epsilon: 0.173646 | Pasos: 17442
+Episodio 370 | Recompensa: 15 | Epsilon: 0.165665 | Pasos: 18681
+Episodio 380 | Recompensa: 161 | Epsilon: 0.158073 | Pasos: 20000
+Episodio 390 | Recompensa: 12 | Epsilon: 0.150851 | Pasos: 21581
+Episodio 400 | Recompensa: 39 | Epsilon: 0.143982 | Pasos: 22705
+Checkpoint guardado en episodio 400
+Episodio 410 | Recompensa: 207 | Epsilon: 0.137448 | Pasos: 24382
+Episodio 420 | Recompensa: 45 | Epsilon: 0.131232 | Pasos: 25662
+Episodio 430 | Recompensa: 98 | Epsilon: 0.125319 | Pasos: 27645
+Episodio 440 | Recompensa: 387 | Epsilon: 0.119695 | Pasos: 29654
+Episodio 450 | Recompensa: 84 | Epsilon: 0.114345 | Pasos: 31080
+Checkpoint guardado en episodio 450
+Episodio 460 | Recompensa: 37 | Epsilon: 0.109256 | Pasos: 33790
+Episodio 470 | Recompensa: 346 | Epsilon: 0.104415 | Pasos: 35187
+Episodio 480 | Recompensa: 588 | Epsilon: 0.0998108 | Pasos: 39439
+Episodio 490 | Recompensa: 41 | Epsilon: 0.0954306 | Pasos: 41823
+Episodio 500 | Recompensa: 773 | Epsilon: 0.0912641 | Pasos: 46953
+Checkpoint guardado en episodio 500
+Entrenamiento finalizado.
+Modelo final guardado en modelo_final.pt

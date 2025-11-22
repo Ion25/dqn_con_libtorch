@@ -1,0 +1,26 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled binaries
+*.o
+*.out
+dqn
+
+# LibTorch (too large for git)
+libtorch/
+*.zip
+
+# Model checkpoints
+*.pt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
